@@ -5,7 +5,7 @@
 ![Image text](https://note.youdao.com/yws/api/personal/file/WEB6043debec0dbe018a8a4f915e2b68eac?method=download&shareKey=20055b51543165e52228569561b9325a)
 
 ### 留校页面
-![Image text](https://note.youdao.com/yws/api/personal/file/WEB991ebdf08f2b264b734ef2a562555c73?method=download&shareKey=ebe16e31f8a2b2e8062e9a3ba7ff201e)
+![Image text](https://note.youdao.com/yws/api/personal/file/WEB37dfab0442ae6b64d980289eec07d8dd?method=download&shareKey=c6e887f6ba0cd956485e68a709940908)
 
 ### 离校页面
 ![Image text](https://note.youdao.com/yws/api/personal/file/WEB37dfab0442ae6b64d980289eec07d8dd?method=download&shareKey=c6e887f6ba0cd956485e68a709940908)
