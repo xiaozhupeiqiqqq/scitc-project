@@ -14,9 +14,6 @@
 ### 离校记录页面
 ![Image text](https://note.youdao.com/yws/api/personal/file/WEB3194581c7b382805a197ff513efcd1b1?method=download&shareKey=ddb0440fccff4e9029e1d737e3eb2dea)
 
-### 留校记录页面
-![Image text](https://note.youdao.com/yws/api/personal/file/WEBf969f8f9f9d9930144d1a6a9304f01e7?method=download&shareKey=72218077c7c3a7bc75cb82edf33ca948)
-
 ### 添加公告记录页面
 ![Image text](https://note.youdao.com/yws/api/personal/file/WEBc95a8b85011f2f8e3e185197d6362e61?method=download&shareKey=8ad3f4c5feea00d0f46c3b7f40975051)
 
