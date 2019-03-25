@@ -1,9 +1,4 @@
 # 基于spring boot + springsecurity + mysql + hibernate 的留校系统,前端采用的是普通的html + js,权限校验用的是security
-### 登录界面
-![Image text](https://note.youdao.com/yws/api/personal/file/WEB70bcfca8a6a8269366ffa3bd9ccb7fb0?method=download&shareKey=b228868a457eb9f638015fb41b3b9184)
-
-### 登录成功页面
-![Image text](https://note.youdao.com/yws/api/personal/file/WEB6043debec0dbe018a8a4f915e2b68eac?method=download&shareKey=20055b51543165e52228569561b9325a)
 
 ### 留校页面
 ![Image text](https://note.youdao.com/yws/api/personal/file/WEB37dfab0442ae6b64d980289eec07d8dd?method=download&shareKey=c6e887f6ba0cd956485e68a709940908)
